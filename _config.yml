@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Sohrab's blog
+description: ~/ 
+markdown: kramdown
+highlighter: rouge
