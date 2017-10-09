@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "سیستم کال write در لینوکس"
+title: "در لینوکس write سیستم کال"
 category: linux-c-programming-persian
 date: 2017-10-09 18:53:47 +0430
 tags: [لینوکس,زبان-سی,برنامه-نویسی,آموزش,هسته,کرنل,سیستم-کال]
