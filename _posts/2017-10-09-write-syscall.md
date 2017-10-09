@@ -13,6 +13,22 @@ lang: fa-IR
  به ترتیب *file descriptor* (یا همون *fd*) و *پوینتر به بافر* و *تعداد
  بایت ها*یین که می‌خوایم برامون بنویسه.
 
+```
+WRITE(2)                   Linux Programmer's Manual                  WRITE(2)
+
+NAME
+       write - write to a file descriptor
+
+SYNOPSIS
+       #include <unistd.h>
+
+       ssize_t write(int fd, const void *buf, size_t count);
+
+DESCRIPTION
+       write()  writes  up  to  count bytes from the buffer pointed buf to the
+       file referred to by the file descriptor fd.
+```
+
 ### آرگومنت یکم
 
 اگه نمی‌دونید file descriptor چیه، یه عدده که راه اتصال ما به یه "فایل"
