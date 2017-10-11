@@ -104,7 +104,7 @@ int main(void){
  استفاده می‌کنیم:
 
 ```sh
-$ cc -Wall -pedantic -std=c89 my.c
+$ cc -Wall -pedantic -std=c89 write.c
 ```
 
 اجرای اون هم مثل بقیه برنامه هاست و نسبت به مسیر
